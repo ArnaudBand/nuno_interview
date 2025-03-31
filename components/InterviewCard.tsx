@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { Feedback, InterviewCardProps } from "@/types";
 import React from "react";
 import dayjs from "dayjs";
