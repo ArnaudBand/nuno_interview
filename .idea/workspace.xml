@@ -6,9 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e1d51db1-c9e8-4d73-ba5c-65772269ae58" name="Changes" comment="">
       <changelist_data name="Arnaud Bandonkeye" email="bandonkeyea@gmail.com" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/app/(root)/interview/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Agent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/vapi/generate/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vapi-sdk.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env.ts" beforeDir="false" afterPath="$PROJECT_DIR$/env.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -65,6 +68,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/home/nuno/workspace/nuno_interview/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -96,7 +100,9 @@
       <workItem from="1743220668184" duration="890000" />
       <workItem from="1743221773904" duration="1608000" />
       <workItem from="1743223574365" duration="5313000" />
-      <workItem from="1743230150678" duration="3861000" />
+      <workItem from="1743230150678" duration="4457000" />
+      <workItem from="1743429774108" duration="2136000" />
+      <workItem from="1743438540457" duration="672000" />
     </task>
     <servers />
   </component>
