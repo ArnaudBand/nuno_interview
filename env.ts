@@ -9,5 +9,6 @@ export const env = {
   },
   vapi: {
     key: String(process.env.NEXT_PUBLIC_VAPI_API_KEY),
-  }
+    workflow: String(process.env.NEXT_PUBLIC_VAPI_WORKFLOW_ID)
+  },
 }
